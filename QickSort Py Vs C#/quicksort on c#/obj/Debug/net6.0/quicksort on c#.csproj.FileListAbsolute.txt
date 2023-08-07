@@ -1,0 +1,15 @@
+D:\Мои документы\Documents\Desktop\Кирилл\Обучение\python\QickSort Py Vs C#\quicksort on c#\bin\Debug\net6.0\quicksort on c#.exe
+D:\Мои документы\Documents\Desktop\Кирилл\Обучение\python\QickSort Py Vs C#\quicksort on c#\bin\Debug\net6.0\quicksort on c#.deps.json
+D:\Мои документы\Documents\Desktop\Кирилл\Обучение\python\QickSort Py Vs C#\quicksort on c#\bin\Debug\net6.0\quicksort on c#.runtimeconfig.json
+D:\Мои документы\Documents\Desktop\Кирилл\Обучение\python\QickSort Py Vs C#\quicksort on c#\bin\Debug\net6.0\quicksort on c#.dll
+D:\Мои документы\Documents\Desktop\Кирилл\Обучение\python\QickSort Py Vs C#\quicksort on c#\bin\Debug\net6.0\quicksort on c#.pdb
+D:\Мои документы\Documents\Desktop\Кирилл\Обучение\python\QickSort Py Vs C#\quicksort on c#\obj\Debug\net6.0\quicksort on c#.csproj.AssemblyReference.cache
+D:\Мои документы\Documents\Desktop\Кирилл\Обучение\python\QickSort Py Vs C#\quicksort on c#\obj\Debug\net6.0\quicksort on c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мои документы\Documents\Desktop\Кирилл\Обучение\python\QickSort Py Vs C#\quicksort on c#\obj\Debug\net6.0\quicksort on c#.AssemblyInfoInputs.cache
+D:\Мои документы\Documents\Desktop\Кирилл\Обучение\python\QickSort Py Vs C#\quicksort on c#\obj\Debug\net6.0\quicksort on c#.AssemblyInfo.cs
+D:\Мои документы\Documents\Desktop\Кирилл\Обучение\python\QickSort Py Vs C#\quicksort on c#\obj\Debug\net6.0\quicksort on c#.csproj.CoreCompileInputs.cache
+D:\Мои документы\Documents\Desktop\Кирилл\Обучение\python\QickSort Py Vs C#\quicksort on c#\obj\Debug\net6.0\quicksort on c#.dll
+D:\Мои документы\Documents\Desktop\Кирилл\Обучение\python\QickSort Py Vs C#\quicksort on c#\obj\Debug\net6.0\refint\quicksort on c#.dll
+D:\Мои документы\Documents\Desktop\Кирилл\Обучение\python\QickSort Py Vs C#\quicksort on c#\obj\Debug\net6.0\quicksort on c#.pdb
+D:\Мои документы\Documents\Desktop\Кирилл\Обучение\python\QickSort Py Vs C#\quicksort on c#\obj\Debug\net6.0\quicksort on c#.genruntimeconfig.cache
+D:\Мои документы\Documents\Desktop\Кирилл\Обучение\python\QickSort Py Vs C#\quicksort on c#\obj\Debug\net6.0\ref\quicksort on c#.dll
