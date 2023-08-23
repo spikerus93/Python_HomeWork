@@ -16,6 +16,8 @@ if x1 == x2:
     print('yes')
 else:
     print('no')
+    
+#print([‘yes’ , ‘no’][res1==res2])
 
 # Другое решение
 # n1 = n // 100000
