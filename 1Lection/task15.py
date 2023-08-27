@@ -25,15 +25,16 @@ N = len(A)
 max = 0
 min = 0
 
+
 # for i in range(len(A)): A.append(int(input("Введите весь каждого арбуза: ")))
 
 for i in range(N):
     A.append(int(input("Введите массу каждого арбуза: ")))
-print('Каждый арбуз весит: ')
-for i in range(len(A)):
-    print(A[i], end="кг, ")
+    print('Каждый арбуз весит: ')
+    for i in range(len(A)):
+        print(A[i], end="кг, ")
 
-for i in range(i+1,1):
+for i in range(N):
     if A[i] > A[i+1]:
         min = A[i+1]
         max = A[i]
